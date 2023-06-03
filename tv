@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 ,JTBC
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_7423A693.m3u8CHANNEL A,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_52_73BCC134.m3u8
+#EXTINF:-1 ,KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1685883481&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU4ODM0ODF9fX1dfQ__&Signature=mi004fCNxbd34SxSPjw1APwAU3zJCy8lx9Ia-kQ20bmnXwEb7TUU5xBEtGdFnA-7nDq6UUXk3atE-wENudijLz3E9DQIkteoGd1VprLl0tQxaUFToUxb5siXw5DjNGAvqaa-gHmu-Z8VglzlZODmAu1yoXiHwpshHluDZOPUid7psxRaDT3RhGXt83smDdueFUWzRe07PKjXiXjDxUgyK-f6L1HheSWyIOErb-MrMUFaWQuacdVvFMVoqDs7HAPbICCZjWyPq~TlXWd88fVW~pe7Hz8FOBGpnNgRPsmGFRVCbAC4muJRboeFaRpYIkziRK29-hQc8CSvAoCcI4FpCg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 ,KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1685883554&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU4ODM1NTR9fX1dfQ__&Signature=eRLk2mku5Teb6XIZncJ~tYnjyzXTacAUgEG63Wg42pm2R9Y-DdoEsLILHnRB4gjKU0d~7X94ZT2MX1Rp6XbnftQwYwzq08SEUdSwfJIkTbohg3sgukxfealmFaguE~8EIg6lWqX~y0~8Hxk9-CP0UqY4L3ERZ27oXg7IGOxBwuYK4X9lJJAw~F4N6jViUuiNUPTkfsCvkvFB763vgbrziWDiYlf3r9-QbO21xFMlSCOHbXW7ymi0TJamAHYxOYdj86cNZsEgQvx3etU6Fwg6GLzKqMgBRdthLqOpi2bQvVqAkKXWZXJreupjo-yBFIMYqfQ81-BcnqXKo-HUau3Yfg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 ,MBC
+https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1685718311&h=aaa17ff46eeb6cf2494d0ac4809149b1
+#EXTINF:-1 ,SBS
+http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODU3MTgzNjYsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImYxZmNkOGQ4LTNhMDEtNGJlMi04OTZmLTE2ZWU3NmQ2YzA5MSIsImlhdCI6MTY4NTcxMTE2Nn0.RtzMOHpk5A49pkFnmie9gcokAucRxF8kpX-24te_rFk
+#EXTINF:-1 ,TV조선
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
+#EXTINF:-1 ,MBN
+http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY4NTc5NzY4MX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=NdxY2oR7HzQOlx3yK68SoAqbzMHVEmpx7FlIcC4ChGFkr3mvVvn61S7Cs72J3HpaOuTTcBLj83HkfKUieImq7SiNNaNT4ZX6xJaG8meS~TdlYbIlVp-SE2ryUdhRdviJZR-H8LsQaEhASJBq7Z596gS5vhr-uis9cysToeOOvrk_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+#EXTINF:-1 ,YTN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_121_69D6F939.m3u8
+#EXTINF:-1 ,연합뉴스
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_124_6F352425.m3u8
 #EXTINF:-1 ,金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,三立新闻
