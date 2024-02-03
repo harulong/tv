@@ -20,7 +20,16 @@ https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20231025T004708SQUARE.png_20231025004709.png" tvg-chno="513" group-title="TV 시리즈" , tvN 미스터 션샤인
 https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBD44000025L" tvg-id="KRBD44000025L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20231206T031622SQUARE.png_20231206031623.png" tvg-chno="519" group-title="라이프스타일" , Fireplace 4K
+#EXTINF:-1 channel-id="samsung-KRBD2700008TZ" tvg-id="KRBD2700008TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20240117T032321SQUARE.png_20240117032322.png" tvg-chno="514" group-title="영화" , PLAYY 새해웃음 특집
+https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20231213T033744SQUARE.png_20231213033745.png" tvg-chno="517" group-title="엔터테인먼트" , tvN 더 지니어스: 그랜드 파이널
+https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
+
+#EXTINF:-1 channel-id="samsung-KRBD4300003MW" tvg-id="KRBD4300003MW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20240131T031230SQUARE.png_20240131031230.png" tvg-chno="518" group-title="엔터테인먼트" , JTBC 냉장고를 부탁해
+https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8
+
+#EXTINF:-1 channel-id="samsung-KRBD44000025L" tvg-id="KRBD44000025L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20240117T032326SQUARE.png_20240117032327.png" tvg-chno="519" group-title="라이프스타일" , Fireplace 4K
 https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20231114T070144SQUARE.png_20231114070145.png" tvg-chno="520" group-title="엔터테인먼트" , MBC 나는 가수다
@@ -32,6 +41,9 @@ https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20231114T070142SQUARE.png_20231114070143.png" tvg-chno="522" group-title="엔터테인먼트" , KBS 1박2일 시즌1
 https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBD43000023M" tvg-id="KRBD43000023M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20240131T031232SQUARE.png_20240131031233.png" tvg-chno="523" group-title="엔터테인먼트" , JTBC 아는 형님
+https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8
+
 #EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="음악" , JTBC 비긴어게인
 https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
 
@@ -41,8 +53,8 @@ https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD4300001RQ" tvg-id="KRBD4300001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300001RQ_20231206T031625SQUARE.png_20231206031626.png" tvg-chno="526" group-title="음악" , essential; by Bugs
 https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBD2700008TZ" tvg-id="KRBD2700008TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231011T013505SQUARE.png_20231011013506.png" tvg-chno="530" group-title="영화" , PLAYY 어워드특집
-https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240131T031234SQUARE.png_20240131031235.png" tvg-chno="530" group-title="스포츠" , tvN SPORTS
+https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="엔터테인먼트" , Mnet 스트릿 우먼 파이터 2 HOT CLIP
 https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
@@ -71,7 +83,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20231206T031611SQUARE.png_20231206031612.png" tvg-chno="543" group-title="TV 시리즈" , KBS 정도전
 https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="TV 시리즈" , JTBC 괴물
+#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20240131T031218SQUARE.png_20240131031218.png" tvg-chno="544" group-title="TV 시리즈" , JTBC SKY캐슬
 https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC50000228B" tvg-id="KRBC50000228B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="TV 시리즈" , JTBC 품위있는 그녀
@@ -116,11 +128,8 @@ https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="엔터테인먼트" , 맛있는 녀석들
 https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="TV 시리즈" , JTBC 힘쎈여자 도봉순
+#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20240131T031215SQUARE.png_20240131031216.png" tvg-chno="567" group-title="TV 시리즈" , JTBC 18 어게인
 https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
-
-#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20230913T010424SQUARE.png_20230913010425.png" tvg-chno="568" group-title="TV 시리즈" , tvN 호텔 델루나
-https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="엔터테인먼트" , 채널A 이제 만나러 갑니다
 https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
@@ -170,7 +179,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="뉴스" , JTBC 뉴스
 https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="엔터테인먼트" , Mnet 스트릿 우먼 파이터
+#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20240131T031224SQUARE.png_20240131031225.png" tvg-chno="616" group-title="엔터테인먼트" , tvN 윤스테이
 https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="엔터테인먼트" , MBN 돌싱글즈
@@ -179,7 +188,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8
 #EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20231114T070118SQUARE.png_20231114070120.png" tvg-chno="620" group-title="TV 시리즈" , SBS 펜트하우스
 https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="TV 시리즈" , MBC 돈꽃
+#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20240117T032323SQUARE.png_20240117032324.png" tvg-chno="621" group-title="TV 시리즈" , MBC 옛드
 https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="어린이" , 뽀요TV
@@ -191,7 +200,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8
 #EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="TV 시리즈" , SBS 빽드
 https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20230809T021503SQUARE.png_20230809021504.png" tvg-chno="626" group-title="TV 시리즈" , 꽃보다 남자
+#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-title="TV 시리즈" , Animax 하이큐!!
 https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="TV 시리즈" , MBC every1 별순검
@@ -254,7 +263,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="시사/교양" , MBN 휴먼다큐 사노라면
 https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20231206T031616SQUARE.png_20231206031617.png" tvg-chno="653" group-title="쇼핑" , 현대홈쇼핑
+#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20240131T032147SQUARE.png_20240131032148.png" tvg-chno="653" group-title="쇼핑" , 현대홈쇼핑
 https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="라이프스타일" , 우리의식탁
@@ -263,7 +272,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="쇼핑" , 인포벨 홈쇼핑
 https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20231206T031608SQUARE.png_20231206031609.png" tvg-chno="700" group-title="쇼핑" , 현대홈쇼핑+Shop
+#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20240131T032149SQUARE.png_20240131032150.png" tvg-chno="700" group-title="쇼핑" , 현대홈쇼핑+Shop
 https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="영화" , NEW MOVIES
@@ -299,19 +308,9 @@ https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="엔터테인먼트" , KBS 개는 훌륭하다
 https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="엔터테인먼트" , 씨네21+
+#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20240131T031212SQUARE.png_20240131031213.png" tvg-chno="845" group-title="영화" , 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz" refresh="3600"
-
-#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://1.245.74.5:1935/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/2560px-KBS_2_logo.svg.png", KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/KBS_1_logo.svg.png/revision/latest?cb=20200921081500&path-prefix=ko", KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",MBC
-https://zrr.kr/n5WE
 #EXTINF:-1 ,MBN[1920*1080]
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 ,KBS WORLD[1280*720]
@@ -410,3 +409,4 @@ https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://livestreaming.hyundaihmall.com/cjpstp/live.stream/playlist.m3u8
 #EXTINF:-1 ,현대홈쇼핑+Shop[1280*720]
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
