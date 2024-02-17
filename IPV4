@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 group-title="地方",延边朝鲜语综合YBTV-1
+#EXTM3U
+#EXTINF:-1 group-title="地方",延边朝鲜语综合YBTV-1
 http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 #EXTINF:-1 group-title="地方",延边汉语综合YBTV-2
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
