@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="地方",延边朝鲜语综合YBTV-1
+#EXTINF:-1 group-title="地方",延边朝鲜语综合
 http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-#EXTINF:-1 group-title="地方",延边汉语综合YBTV-2
+#EXTINF:-1 group-title="地方",延边汉语综合
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
-#EXTINF:-1 group-title="地方",延边汉语综合YBTV-2
+#EXTINF:-1 group-title="地方",延边汉语综合
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-#EXTINF:-1 group-title="地方",延边汉语综合YBTV-2
+#EXTINF:-1 group-title="地方",延边汉语综合
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
@@ -21,155 +21,155 @@ http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/肥羊/224/322
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/肥羊/224/3221227590/index.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw3347158460_-210329776/ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8?icpid=3&RTS=1669701948&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="央视",CCTV-1
 http://211.137.115.109:80/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="央视",CCTV-1
 http://211.137.115.109:80/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="央视",CCTV-1
 http://211.137.115.109:80/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="央视",CCTV-1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="央视",CCTV-1
 https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="央视",CCTV-2
 http://211.137.115.109:80/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="央视",CCTV-2
 http://211.137.115.109:80/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="央视",CCTV-2
 http://211.137.115.109:80/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="央视",CCTV-2
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="央视",CCTV-2
 https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="央视",CCTV-3
 http://211.137.115.109:80/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="央视",CCTV-3
 https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="央视",CCTV-4
 http://211.137.115.109:80/gitv_live/CCTV-4/CCTV-4.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="央视",CCTV-4
 http://211.137.115.109:80/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="央视",CCTV-4
 http://211.137.115.109:80/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="央视",CCTV-4
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="央视",CCTV-4
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="央视",CCTV-4
 https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-#EXTINF:-1 group-title="央视",CCTV4K
+#EXTINF:-1 group-title="央视",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 group-title="央视",CCTV4K
+#EXTINF:-1 group-title="央视",CCTV-4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1 group-title="央视",CCTV4K
+#EXTINF:-1 group-title="央视",CCTV-4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV-4K
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="央视",CCTV-5
 http://211.137.115.109:80/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="央视",CCTV-5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="央视",CCTV-5
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="央视",CCTV-5
 https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-#EXTINF:-1 group-title="央视",CCTV5+
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://211.137.115.109:80/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://211.137.115.109:80/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+
+#EXTINF:-1 group-title="央视",CCTV-5+
 https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="央视",CCTV-6
 http://211.137.115.109:80/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="央视",CCTV-6
 https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="央视",CCTV-7
 http://211.137.115.109:80/gitv_live/CCTV-7/CCTV-7.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="央视",CCTV-7
 http://211.137.115.109:80/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="央视",CCTV-7
 https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="央视",CCTV-8
 http://211.137.115.109:80/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="央视",CCTV-8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="央视",CCTV-8
 https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="央视",CCTV-9
 http://211.137.115.109:80/gitv_live/G_CCTV-9/G_CCTV-9.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="央视",CCTV-9
 http://211.137.115.109:80/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="央视",CCTV-9
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="央视",CCTV-9
 https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="央视",CCTV-10
 http://211.137.115.109:80/gitv_live/CCTV-10/CCTV-10.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="央视",CCTV-10
 http://211.137.115.109:80/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="央视",CCTV-10
 http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="央视",CCTV-10
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="央视",CCTV-10
 https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="央视",CCTV-11
 http://211.137.115.109:80/gitv_live/CCTV-11/CCTV-11.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="央视",CCTV-11
 http://211.137.115.109:80/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="央视",CCTV-11
 https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="央视",CCTV-12
 http://211.137.115.109:80/gitv_live/CCTV-12/CCTV-12.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="央视",CCTV-12
 http://211.137.115.109:80/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="央视",CCTV-12
 https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 http://211.137.115.109:80/gitv_live/CCTV-13/CCTV-13.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 http://211.137.115.109:80/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 https://live.goodiptv.club/api/cqyx.php?id=CCTV-NewsHD
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="央视",CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="央视",CCTV-14
 http://211.137.115.109:80/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="央视",CCTV-14
 http://211.137.115.109:80/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="央视",CCTV-14
 https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="央视",CCTV-14
 https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="央视",CCTV-15
 http://211.137.115.109:80/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="央视",CCTV-15
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="央视",CCTV-15
 https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
-#EXTINF:-1 group-title="央视",CCTV16 4K
+#EXTINF:-1 group-title="央视",CCTV-16 4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV-16_4K
-#EXTINF:-1 group-title="央视",CCTV16
+#EXTINF:-1 group-title="央视",CCTV-16
 http://211.137.115.109:80/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV16
+#EXTINF:-1 group-title="央视",CCTV-16
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV16
+#EXTINF:-1 group-title="央视",CCTV-16
 https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="央视",CCTV-17
 http://211.137.115.109:80/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="央视",CCTV-17
 http://211.137.115.109:80/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="央视",CCTV-17
 https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-#EXTINF:-1 group-title="央视",CCTVNEWS
+#EXTINF:-1 group-title="央视",CCTV-NEWS
 http://211.137.115.109:80/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 #EXTINF:-1 group-title="央视",CHC动作电影
 http://211.137.115.109:80/gitv_live/G_CHCDZDY/G_CHCDZDY.m3u8
