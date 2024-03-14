@@ -27,6 +27,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=3
 #EXTINF:-1 group-title="卫视",中天新聞
 https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
+#EXTINF:-1 group-title="卫视",纪实科教8K
+http://owen1086.yundown.cf/mhq/%E5%8C%97%E4%BA%AC.php?id=brtv8k
+#EXTINF:-1 group-title="央视",CCTV-5
+http://ctcc-tvod.ctyun-cdn.gitv.tv/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://211.137.115.109:80/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
