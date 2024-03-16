@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="地方",延边朝鲜语综合
+#EXTINF:-1 group-title="地方",延边新闻语综合频道
 http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-#EXTINF:-1 group-title="地方",延边汉语综合
+#EXTINF:-1 group-title="地方",延边经济文化频道
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
-#EXTINF:-1 group-title="地方",延边汉语综合
+#EXTINF:-1 group-title="地方",延边经济文化频道
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-#EXTINF:-1 group-title="地方",延边汉语综合
+#EXTINF:-1 group-title="地方",延边经济文化频道
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
