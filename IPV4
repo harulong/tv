@@ -21,456 +21,125 @@ http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/肥羊/224/322
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/肥羊/224/3221227590/index.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw3347158460_-210329776/ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8?icpid=3&RTS=1669701948&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="百事通",CCTV1
-http://php.jdshipin.com:8880/bst.php?id=cctv1hd/4000000
-#EXTINF:-1 group-title="百事通",CCTV2
-http://php.jdshipin.com:8880/bst.php?id=cctv2hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV3
-http://php.jdshipin.com:8880/bst.php?id=cctv38m/8000000
-#EXTINF:-1 group-title="百事通",CCTV4
-http://php.jdshipin.com:8880/bst.php?id=cctv4hd/4000000
-#EXTINF:-1 group-title="百事通",CCTV5
-http://php.jdshipin.com:8880/bst.php?id=cctv5hd/4000000
-#EXTINF:-1 group-title="百事通",CCTV5+
-http://php.jdshipin.com:8880/bst.php?id=cctv5phd/4000000
-#EXTINF:-1 group-title="百事通",CCTV6
-http://php.jdshipin.com:8880/bst.php?id=cctv6hd/4000000
-#EXTINF:-1 group-title="百事通",CCTV7
-http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV8
-http://php.jdshipin.com:8880/bst.php?id=cctv8hd/4000000
-#EXTINF:-1 group-title="百事通",CCTV9
-http://php.jdshipin.com:8880/bst.php?id=cctv9hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV10
-http://php.jdshipin.com:8880/bst.php?id=cctv10hd/4000000
-#EXTINF:-1 group-title="百事通",CCTV11
-http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV12
-http://php.jdshipin.com:8880/bst.php?id=cctv12hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV13
-http://php.jdshipin.com:8880/bst.php?id=cctv13
-#EXTINF:-1 group-title="百事通",CCTV14
-http://php.jdshipin.com:8880/bst.php?id=cctvsehd/4000000
-#EXTINF:-1 group-title="百事通",CCTV15
-http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV16
-http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
-#EXTINF:-1 group-title="百事通",CCTV16-4K
-http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k8m/15000000
-#EXTINF:-1 group-title="百事通",CCTV17
-http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
-#EXTINF:-1 group-title="百事通",CETV1
-http://php.jdshipin.com:8880/bst.php?id=zgjy1t8m/8000000
-#EXTINF:-1 group-title="百事通",CETV4
-http://php.jdshipin.com:8880/bst.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 group-title="百事通",CGTN
-http://php.jdshipin.com:8880/bst.php?id=ottcctvnews/1300000
-#EXTINF:-1 group-title="百事通",安徽卫视
-http://php.jdshipin.com:8880/bst.php?id=ahwshd/4000000
-#EXTINF:-1 group-title="百事通",北京卫视
-http://php.jdshipin.com:8880/bst.php?id=bjwshd/4000000
-#EXTINF:-1 group-title="百事通",兵团卫视
-http://php.jdshipin.com:8880/bst.php?id=btws/1300000
-#EXTINF:-1 group-title="百事通",东方卫视
-http://php.jdshipin.com:8880/bst.php?id=hddfws/4000000
-#EXTINF:-1 group-title="百事通",东南卫视
-http://php.jdshipin.com:8880/bst.php?id=dnwshd/4000000
-#EXTINF:-1 group-title="百事通",福建海峡卫视
-http://php.jdshipin.com:8880/bst.php?id=hxws
-#EXTINF:-1 group-title="百事通",甘肃卫视
-http://php.jdshipin.com:8880/bst.php?id=gswshd8m/8000000
-#EXTINF:-1 group-title="百事通",广东卫视
-http://php.jdshipin.com:8880/bst.php?id=gdwshd/4000000
-#EXTINF:-1 group-title="百事通",广西卫视
-http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
-#EXTINF:-1 group-title="百事通",贵州卫视
-http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
-#EXTINF:-1 group-title="百事通",海南卫视
-http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
-#EXTINF:-1 group-title="百事通",河北卫视
-http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
-#EXTINF:-1 group-title="百事通",黑龙江卫视
-http://php.jdshipin.com:8880/bst.php?id=hljwshd/4000000
-#EXTINF:-1 group-title="百事通",黑龙江卫视
-http://php.jdshipin.com:8880/bst.php?id=hljwshd8m/8000000
-#EXTINF:-1 group-title="百事通",湖北卫视
-http://php.jdshipin.com:8880/bst.php?id=hbwshd/4000000
-#EXTINF:-1 group-title="百事通",湖南卫视
-http://php.jdshipin.com:8880/bst.php?id=hnwshd/4000000
-#EXTINF:-1 group-title="百事通",吉林卫视
-http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
-#EXTINF:-1 group-title="百事通",江苏卫视
-http://php.jdshipin.com:8880/bst.php?id=jswshd/4000000
-#EXTINF:-1 group-title="百事通",江西卫视
-http://php.jdshipin.com:8880/bst.php?id=jxwshd/4000000
-#EXTINF:-1 group-title="百事通",辽宁卫视
-http://php.jdshipin.com:8880/bst.php?id=lnwshd/4000000
-#EXTINF:-1 group-title="百事通",辽宁卫视
-http://php.jdshipin.com:8880/bst.php?id=lnwshd8m/8000000
-#EXTINF:-1 group-title="百事通",内蒙古卫视
-http://php.jdshipin.com:8880/bst.php?id=nmgws/1300000
-#EXTINF:-1 group-title="百事通",青海卫视
-http://php.jdshipin.com:8880/bst.php?id=qhws/1300000
-#EXTINF:-1 group-title="百事通",厦门卫视
-http://php.jdshipin.com:8880/bst.php?id=xmws/1300000
-#EXTINF:-1 group-title="百事通",山东卫视
-http://php.jdshipin.com:8880/bst.php?id=sdwshd/4000000
-#EXTINF:-1 group-title="百事通",山西卫视
-http://php.jdshipin.com:8880/bst.php?id=shanxiws/1300000
-#EXTINF:-1 group-title="百事通",陕西卫视
-http://php.jdshipin.com:8880/bst.php?id=sxws/1300000
-#EXTINF:-1 group-title="百事通",深圳卫视
-http://php.jdshipin.com:8880/bst.php?id=szwshd/4000000
-#EXTINF:-1 group-title="百事通",四川卫视
-http://php.jdshipin.com:8880/bst.php?id=scwshd8m/8000000
-#EXTINF:-1 group-title="百事通",天津卫视
-http://php.jdshipin.com:8880/bst.php?id=tjwshd/4000000
-#EXTINF:-1 group-title="百事通",西藏卫视
-http://php.jdshipin.com:8880/bst.php?id=xzws/1300000
-#EXTINF:-1 group-title="百事通",新疆卫视
-http://php.jdshipin.com:8880/bst.php?id=xjws/1300000
-#EXTINF:-1 group-title="百事通",云南卫视
-http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
-#EXTINF:-1 group-title="百事通",浙江卫视
-http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
-#EXTINF:-1 group-title="百事通",重庆卫视
-http://php.jdshipin.com:8880/bst.php?id=cqwshd8m/8000000
-#EXTINF:-1 group-title="百事通",百变课堂
-http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
-#EXTINF:-1 group-title="百事通",百事通百变课堂
-http://php.jdshipin.com:8880/bst.php?id=bbkt
-#EXTINF:-1 group-title="百事通",百事通宝宝动画
-http://php.jdshipin.com:8880/bst.php?id=bbdh
-#EXTINF:-1 group-title="百事通",百事通电竞天堂
-http://php.jdshipin.com:8880/bst.php?id=djtt
-#EXTINF:-1 group-title="百事通",百事通谍战剧场
-http://php.jdshipin.com:8880/bst.php?id=dzjc
-#EXTINF:-1 group-title="百事通",百事通华语影院
-http://php.jdshipin.com:8880/bst.php?id=hyyy
-#EXTINF:-1 group-title="百事通",百事通看天下精选
-http://php.jdshipin.com:8880/bst.php?id=ktxjx
-#EXTINF:-1 group-title="百事通",百事通青春动漫
-http://php.jdshipin.com:8880/bst.php?id=qcdm
-#EXTINF:-1 group-title="百事通",百事通热门剧场
-http://php.jdshipin.com:8880/bst.php?id=rmjc
-#EXTINF:-1 group-title="百事通",百事通热门综艺
-http://php.jdshipin.com:8880/bst.php?id=rmzy
-#EXTINF:-1 group-title="百事通",百事通戏曲精选
-http://php.jdshipin.com:8880/bst.php?id=xqjx
-#EXTINF:-1 group-title="百事通",百事通星光影院
-http://php.jdshipin.com:8880/bst.php?id=xgyy
-#EXTINF:-1 group-title="百事通",宝宝动画
-http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="百事通",北京纪实科教
-http://php.jdshipin.com:8880/bst.php?id=bjjskj
-#EXTINF:-1 group-title="百事通",北京纪实科教
-http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
-#EXTINF:-1 group-title="百事通",北京卡酷少儿
-http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
-#EXTINF:-1 group-title="百事通",北京卡酷少儿
-http://php.jdshipin.com:8880/bst.php?id=kkse
-#EXTINF:-1 group-title="百事通",茶频道
-http://php.jdshipin.com:8880/bst.php?id=cpdhdavs8m/8000000
-#EXTINF:-1 group-title="百事通",超级体育
-http://php.jdshipin.com:8880/bst.php?id=qcsj8m/8000000
-#EXTINF:-1 group-title="百事通",第一财经
-http://php.jdshipin.com:8880/bst.php?id=dycjhd/4000000
-#EXTINF:-1 group-title="百事通",第一财经
-http://php.jdshipin.com:8880/bst.php?id=dycjhd8m/8000000
-#EXTINF:-1 group-title="百事通",电竞
-http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
-#EXTINF:-1 group-title="百事通",谍战剧场
-http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
-#EXTINF:-1 group-title="百事通",东方财经
-http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
-#EXTINF:-1 group-title="百事通",东方影视
-http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
-#EXTINF:-1 group-title="百事通",东方影视
-http://php.jdshipin.com:8880/bst.php?id=dsjpdhd/4000000
-#EXTINF:-1 group-title="百事通",动漫秀场
-http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000
-#EXTINF:-1 group-title="百事通",动漫秀场
-http://php.jdshipin.com:8880/bst.php?id=dmxchd/4000000
-#EXTINF:-1 group-title="百事通",都市剧场
-http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000
-#EXTINF:-1 group-title="百事通",法治天地
-http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
-#EXTINF:-1 group-title="百事通",福建电视剧
-http://php.jdshipin.com:8880/bst.php?id=fjdsj
-#EXTINF:-1 group-title="百事通",福建公共
-http://php.jdshipin.com:8880/bst.php?id=fjgg
-#EXTINF:-1 group-title="百事通",福建旅游
-http://php.jdshipin.com:8880/bst.php?id=fjly
-#EXTINF:-1 group-title="百事通",福建少儿
-http://php.jdshipin.com:8880/bst.php?id=fjse
-#EXTINF:-1 group-title="百事通",福建文体
-http://php.jdshipin.com:8880/bst.php?id=fjwt
-#EXTINF:-1 group-title="百事通",福建新闻
-http://php.jdshipin.com:8880/bst.php?id=fjxw
-#EXTINF:-1 group-title="百事通",福建综合
-http://php.jdshipin.com:8880/bst.php?id=fjzh
-#EXTINF:-1 group-title="百事通",广东嘉佳卡通
-http://php.jdshipin.com:8880/bst.php?id=jjkt
-#EXTINF:-1 group-title="百事通",哈哈炫动
-http://php.jdshipin.com:8880/bst.php?id=hhxdhd8m/8000000
-#EXTINF:-1 group-title="百事通",哈哈炫动
-http://php.jdshipin.com:8880/bst.php?id=hhxdhd/4000000
-#EXTINF:-1 group-title="百事通",湖南茶频道
-http://php.jdshipin.com:8880/bst.php?id=cpd
-#EXTINF:-1 group-title="百事通",湖南金鹰纪实
-http://php.jdshipin.com:8880/bst.php?id=jyjs
-#EXTINF:-1 group-title="百事通",湖南金鹰卡通
-http://php.jdshipin.com:8880/bst.php?id=jykt
-#EXTINF:-1 group-title="百事通",湖南快乐垂钓
-http://php.jdshipin.com:8880/bst.php?id=klcd
-#EXTINF:-1 group-title="百事通",华语影院
-http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="百事通",欢笑剧场
-http://php.jdshipin.com:8880/bst.php?id=hxjchd/4000000
-#EXTINF:-1 group-title="百事通",欢笑剧场4K
-http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
-#EXTINF:-1 group-title="百事通",欢笑剧场4K
-http://php.jdshipin.com:8880/bst.php?id=kxjc4k/8000000
-#EXTINF:-1 group-title="百事通",极速汽车
-http://php.jdshipin.com:8880/bst.php?id=jsqchd/4000000
-#EXTINF:-1 group-title="百事通",纪实人文
-http://php.jdshipin.com:8880/bst.php?id=jspdhd/4000000
-#EXTINF:-1 group-title="百事通",纪实人文
-http://php.jdshipin.com:8880/bst.php?id=jspdhd8m/8000000
-#EXTINF:-1 group-title="百事通",嘉佳卡通
-http://php.jdshipin.com:8880/bst.php?id=jjkt/1300000
-#EXTINF:-1 group-title="百事通",健康养生
-http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
-#EXTINF:-1 group-title="百事通",金色学堂
-http://php.jdshipin.com:8880/bst.php?id=jingsepd8m/8000000
-#EXTINF:-1 group-title="百事通",金鹰纪实
-http://php.jdshipin.com:8880/bst.php?id=jyjs8m/8000000
-#EXTINF:-1 group-title="百事通",金鹰卡通
-http://php.jdshipin.com:8880/bst.php?id=jykt/1300000
-#EXTINF:-1 group-title="百事通",劲爆体育
-http://php.jdshipin.com:8880/bst.php?id=jbtyhd/4000000
-#EXTINF:-1 group-title="百事通",看天下
-http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
-#EXTINF:-1 group-title="百事通",快乐垂钓
-http://php.jdshipin.com:8880/bst.php?id=klcd8m/8000000
-#EXTINF:-1 group-title="百事通",乐游
-http://php.jdshipin.com:8880/bst.php?id=qjshd8m/8000000
-#EXTINF:-1 group-title="百事通",魅力足球
-http://php.jdshipin.com:8880/bst.php?id=mlyyhd/4000000
-#EXTINF:-1 group-title="百事通",七彩戏剧
-http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
-#EXTINF:-1 group-title="百事通",青春动漫
-http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="百事通",全纪实
-http://php.jdshipin.com:8880/bst.php?id=qjshd/4000000
-#EXTINF:-1 group-title="百事通",全球大片
-http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
-#EXTINF:-1 group-title="百事通",热门剧场
-http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
-#EXTINF:-1 group-title="百事通",热门综艺
-http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
-#EXTINF:-1 group-title="百事通",上海第一财经
-http://php.jdshipin.com:8880/bst.php?id=dycj
-#EXTINF:-1 group-title="百事通",上海东方财经
-http://php.jdshipin.com:8880/bst.php?id=dfcj
-#EXTINF:-1 group-title="百事通",上海东方影视
-http://php.jdshipin.com:8880/bst.php?id=dfys
-#EXTINF:-1 group-title="百事通",上海动漫秀场
-http://php.jdshipin.com:8880/bst.php?id=dmxc
-#EXTINF:-1 group-title="百事通",上海都市
-http://php.jdshipin.com:8880/bst.php?id=dshd8m/8000000
-#EXTINF:-1 group-title="百事通",上海都市
-http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
-#EXTINF:-1 group-title="百事通",上海都市剧场
-http://php.jdshipin.com:8880/bst.php?id=dsjc
-#EXTINF:-1 group-title="百事通",上海都市频道
-http://php.jdshipin.com:8880/bst.php?id=shds
-#EXTINF:-1 group-title="百事通",上海法治天地
-http://php.jdshipin.com:8880/bst.php?id=fztd
-#EXTINF:-1 group-title="百事通",上海哈哈炫动
-http://php.jdshipin.com:8880/bst.php?id=hhxd
-#EXTINF:-1 group-title="百事通",上海欢笑剧场
-http://php.jdshipin.com:8880/bst.php?id=hxjc
-#EXTINF:-1 group-title="百事通",上海纪实人文
-http://php.jdshipin.com:8880/bst.php?id=jsrw
-#EXTINF:-1 group-title="百事通",上海教育
-http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
-#EXTINF:-1 group-title="百事通",上海教育频道
-http://php.jdshipin.com:8880/bst.php?id=shjy
-#EXTINF:-1 group-title="百事通",上海金色学堂
-http://php.jdshipin.com:8880/bst.php?id=jsxt
-#EXTINF:-1 group-title="百事通",上海劲爆体育
-http://php.jdshipin.com:8880/bst.php?id=jbty
-#EXTINF:-1 group-title="百事通",上海乐游频道
-http://php.jdshipin.com:8880/bst.php?id=leyou
-#EXTINF:-1 group-title="百事通",上海魅力足球
-http://php.jdshipin.com:8880/bst.php?id=mlzq
-#EXTINF:-1 group-title="百事通",上海七彩戏剧
-http://php.jdshipin.com:8880/bst.php?id=qcxj
-#EXTINF:-1 group-title="百事通",上海生活时尚
-http://php.jdshipin.com:8880/bst.php?id=shss
-#EXTINF:-1 group-title="百事通",上海外语
-http://php.jdshipin.com:8880/bst.php?id=icshd8m/8000000
-#EXTINF:-1 group-title="百事通",上海外语
-http://php.jdshipin.com:8880/bst.php?id=wypdhd/4000000
-#EXTINF:-1 group-title="百事通",上海外语频道
-http://php.jdshipin.com:8880/bst.php?id=shics
-#EXTINF:-1 group-title="百事通",上海五星体育
-http://php.jdshipin.com:8880/bst.php?id=wxty
-#EXTINF:-1 group-title="百事通",上海新视觉频道
-http://php.jdshipin.com:8880/bst.php?id=xsj
-#EXTINF:-1 group-title="百事通",上海新闻
-http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
-#EXTINF:-1 group-title="百事通",上海新闻
-http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000
-#EXTINF:-1 group-title="百事通",上海新闻综合
-http://php.jdshipin.com:8880/bst.php?id=shxwzh
-#EXTINF:-1 group-title="百事通",上海游戏风云
-http://php.jdshipin.com:8880/bst.php?id=yxfy
-#EXTINF:-1 group-title="百事通",生活时尚
-http://php.jdshipin.com:8880/bst.php?id=shsshd/4000000
-#EXTINF:-1 group-title="百事通",陶瓷
-http://php.jdshipin.com:8880/bst.php?id=taocihd/8000000
-#EXTINF:-1 group-title="百事通",五星体育
-http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
-#EXTINF:-1 group-title="百事通",五星体育
-http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="百事通",戏曲精选
-http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
-#EXTINF:-1 group-title="百事通",新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
-#EXTINF:-1 group-title="百事通",新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
-#EXTINF:-1 group-title="百事通",星光影院
-http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
-#EXTINF:-1 group-title="百事通",幸福彩
-http://php.jdshipin.com:8880/bst.php?id=xfchd/4000000
-#EXTINF:-1 group-title="百事通",游戏风云
-http://php.jdshipin.com:8880/bst.php?id=yxfyhd/4000000
-#EXTINF:-1 group-title="百事通",中国天气
-http://php.jdshipin.com:8880/bst.php?id=zgtq/1300000
-#EXTINF:-1 group-title="百事通",足球
-http://php.jdshipin.com:8880/bst.php?id=zqpd8m/8000000
-
 #EXTINF:-1 group-title="卫视",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="卫视",中天新聞
 http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 group-title="央视",CCTV-1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-1
 http://211.137.115.109:80/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-1
 http://211.137.115.109:80/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-2
 http://211.137.115.109:80/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-3[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-3
 http://211.137.115.109:80/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-4
 http://211.137.115.109:80/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-4
 http://211.137.115.109:80/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-5
 http://211.137.115.109:80/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://211.137.115.109:80/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-5+
 http://211.137.115.109:80/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-6
 http://211.137.115.109:80/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-7
 http://211.137.115.109:80/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-8
 http://211.137.115.109:80/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-9
 http://211.137.115.109:80/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-10
 http://211.137.115.109:80/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-11
 http://211.137.115.109:80/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-12
 http://211.137.115.109:80/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-13
 http://211.137.115.109:80/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-14
 http://211.137.115.109:80/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-15
 http://211.137.115.109:80/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-16
 http://211.137.115.109:80/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-17
 http://211.137.115.109:80/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-#EXTINF:-1 group-title="央视",CCTV-NEWS[1920*1080]
+#EXTINF:-1 group-title="央视",CCTV-NEWS
 http://211.137.115.109:80/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
-#EXTINF:-1 group-title="央视",CHC动作电影[1920*1080]
+#EXTINF:-1 group-title="央视",CHC动作电影
 http://211.137.115.109:80/gitv_live/G_CHCDZDY/G_CHCDZDY.m3u8
-#EXTINF:-1 group-title="央视",CHC高清电影[1920*1080]
+#EXTINF:-1 group-title="央视",CHC高清电影
 http://211.137.115.109:80/gitv_live/G_CHCGQDY/G_CHCGQDY.m3u8
-#EXTINF:-1 group-title="央视",CHC家庭影院[1920*1080]
+#EXTINF:-1 group-title="央视",CHC家庭影院
 http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",安徽卫视
 http://211.137.115.109:80/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",北京卫视
 http://211.137.115.109:80/gitv_live/BTV-1/BTV-1.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",北京卫视
 http://211.137.115.109:80/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",东方卫视
 http://211.137.115.109:80/gitv_live/DFWS-HD/DFWS-HD.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",东方卫视
 http://211.137.115.109:80/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",广东卫视
 http://211.137.115.109:80/gitv_live/G_GUANGDONG-MD/G_GUANGDONG-MD.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",广东卫视
 http://211.137.115.109:80/gitv_live/GDWS-HD/GDWS-HD.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",黑龙江卫视
 http://211.137.115.109:80/gitv_live/G_HEILONGJIANG-MD/G_HEILONGJIANG-MD.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",黑龙江卫视
 http://211.137.115.109:80/gitv_live/HLJWS-HD/HLJWS-HD.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",湖北卫视
 http://211.137.115.109:80/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",湖北卫视
 http://211.137.115.109:80/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",湖南卫视
 http://211.137.115.109:80/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",湖南卫视
 http://211.137.115.109:80/gitv_live/HNWS-HD/HNWS-HD.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",江苏卫视
 http://211.137.115.109:80/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",江苏卫视
 http://211.137.115.109:80/gitv_live/G_JIANGSU-MD/G_JIANGSU-MD.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",辽宁卫视
 http://211.137.115.109:80/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",辽宁卫视
 http://211.137.115.109:80/gitv_live/G_LIAONING-MD/G_LIAONING-MD.m3u8
-#EXTINF:-1 group-title="卫视",青海安多卫视[1280*720]
+#EXTINF:-1 group-title="卫视",青海安多卫视
 http://stream.qhbtv.com/adws/playlist.m3u8
-#EXTINF:-1 group-title="卫视",青海安多卫视[1280*720]
+#EXTINF:-1 group-title="卫视",青海安多卫视
 http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
-#EXTINF:-1 group-title="卫视",青海安多卫视[1280*720]
+#EXTINF:-1 group-title="卫视",青海安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 group-title="卫视",青海卫视[1280*720]
+#EXTINF:-1 group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="卫视",青海卫视[1280*720]
+#EXTINF:-1 group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-#EXTINF:-1 group-title="卫视",山西卫视[1280*720]
+#EXTINF:-1 group-title="卫视",山西卫视
 http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
-#EXTINF:-1 group-title="卫视",山西卫视[1280*720]
+#EXTINF:-1 group-title="卫视",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 group-title="卫视",陕西卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",陕西卫视
 http://211.137.115.109:80/gitv_live/G_SHANXI/G_SHANXI.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",深圳卫视
 http://211.137.115.109:80/gitv_live/G_SHENZHEN-MD/G_SHENZHEN-MD.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",深圳卫视
 http://211.137.115.109:80/gitv_live/SZWS-HD/SZWS-HD.m3u8
-#EXTINF:-1 group-title="卫视",天津卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",天津卫视
 http://211.137.115.109:80/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视[1280*720]
+#EXTINF:-1 group-title="卫视",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视[1280*720]
+#EXTINF:-1 group-title="卫视",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",浙江卫视
 http://211.137.115.109:80/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",浙江卫视
 http://211.137.115.109:80/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视[1920*1080]
+#EXTINF:-1 group-title="卫视",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="地方",SiTV劲爆体育
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2618430885_1969735389/ott.mobaibox.com/PLTV/88888890/224/3221227023/index.m3u8?icpid=88888890&RTS=1687954830&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
