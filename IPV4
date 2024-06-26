@@ -22,6 +22,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/肥羊/224/322
 #EXTINF:-1 group-title="卫视",延边卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw3347158460_-210329776/ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8?icpid=3&RTS=1669701948&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="卫视",中天新闻
+https://bsex.serv00.net/Smart.php?id=ctinews
+#EXTINF:-1 group-title="卫视",中天新闻
 https://histar.zapi.us.kg/?id=cti-news
 #EXTINF:-1 group-title="卫视",中天新闻
 http://194.87.101.118/live.m3u8?c=7
