@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 ,民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民視新聞 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民視新聞 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 ,台視新聞 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,三立iNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 ,東森超視34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 ,TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 ,時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 ,人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 ,人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 ,人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 ,大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 ,番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 ,番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 ,番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 ,國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 ,世新綜合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF:-1 ,嘉義SHOW
+http://61.58.60.230:9319/live/100.m3u8
+#EXTINF:-1 ,生命電視台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 ,佛衛慈悲台
+http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
+#EXTINF:-1 ,孝廉
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 ,創世電視
+https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+#EXTINF:-1 ,天映經典
+http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1 ,天映經典
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 ,Hi-YAH!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 ,每日影院
+http://beifeng.site:4000/udp/239.3.1.111:8001
+#EXTINF:-1 ,4K測試源
+http://159.75.85.63:5680/d/ad/playad.m3u8
+#EXTINF:-1 ,抖音世界盃4K
+http://159.75.85.63:5678/zb.php?id=douyin
+#EXTINF:-1 ,抖音4K50P 世界盃場次一
+http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+#EXTINF:-1 ,抖音4K50P 世界盃場次二
+http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
+#EXTINF:-1 ,愛自然 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 ,蘇州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,蘇州4K
+http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 ,有線財經資訊台
+http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 ,有線新聞台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 ,有線新聞台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 ,有線新聞台
+http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+#EXTINF:-1 ,亞洲新聞台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,香港有線新聞
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 ,香港有線新聞
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 ,香港衛視
+https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 ,香港麵包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,鳳凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,鳳凰資訊
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,耀才財經
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才財經
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,Fox News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,東森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 ,東森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 ,東森美洲
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 ,星空衛視
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 ,TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 ,TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 ,TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 ,TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 ,TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 ,美國中文電視
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 ,美國中文電視
+https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1 ,華語電視2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 ,華語電視2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+#EXTINF:-1 ,華語電視3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 ,華語電視3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+#EXTINF:-1 ,新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+#EXTINF:-1 ,GOOD卡通
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 ,GOOD卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 ,動漫輪播-動漫直播間
+http://epg.112114.xyz/douyu/1487654
+#EXTINF:-1 ,動漫輪播-草帽丶海賊團的直播間
+http://epg.112114.xyz/douyu/997925
+#EXTINF:-1 ,動漫輪播-動漫推薦官方直播間
+http://epg.112114.xyz/douyu/5187099
+#EXTINF:-1 ,動畫輪播-動畫輪播
+http://epg.112114.xyz/douyu/426517
+#EXTINF:-1 ,動漫輪播-淼漫迷
+http://epg.112114.xyz/douyu/9455567
+#EXTINF:-1 ,動漫輪播-童年動漫點播
+http://epg.112114.xyz/douyu/7256376
+#EXTINF:-1 ,動漫輪播-超燃懷舊經典
+http://epg.112114.xyz/douyu/1174353
+#EXTINF:-1 ,動漫輪播-搞笑、校園、奇幻、后宮
+http://epg.112114.xyz/douyu/9429545
+#EXTINF:-1 ,動漫輪播-搞笑籃球動漫
+http://epg.112114.xyz/douyu/9401305
+#EXTINF:-1 ,動漫輪播-魯過一世的直播間
+http://epg.112114.xyz/douyu/9716515
+#EXTINF:-1 ,中二日記搞笑日常
+http://epg.112114.xyz/douyu/9505575
+#EXTINF:-1 ,茶啊二中
+http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=165bd67af60009b2bb4bb39f35062005&wsTime=610fc9ca&uid=0&seqid=16283382322856384&ctype=tars_mobile&ver=1&t=103
+#EXTINF:-1 ,反轉星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 ,犬夜叉
+http://epg.112114.xyz/douyu/7422897
+#EXTINF:-1 ,名偵探柯南
+http://epg.112114.xyz/douyu/1783144
+#EXTINF:-1 ,名偵探柯南
+http://epg.112114.xyz/douyu/6484910
+#EXTINF:-1 ,名偵探柯南
+http://epg.112114.xyz/douyu/7050342
+#EXTINF:-1 ,名偵探柯南
+http://epg.112114.xyz/douyu/7620081
+#EXTINF:-1 ,哆啦A夢
+http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 ,倒楣熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 ,海綿寶寶
+http://epg.112114.xyz/douyu/1569773
+#EXTINF:-1 ,海綿寶寶
+http://epg.112114.xyz/douyu/7528160
+#EXTINF:-1 ,是腦洞君君君
+http://epg.112114.xyz/douyu/9360149
+#EXTINF:-1 ,假面騎士
+http://epg.112114.xyz/douyu/1218414
+#EXTINF:-1 ,動物世界
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+#EXTINF:-1 ,獵人X獵人
+http://epg.112114.xyz/douyu/6610883
+#EXTINF:-1 ,開心錘錘
+http://epg.112114.xyz/douyu/9018297
+#EXTINF:-1 ,鐵頭與橘子
+http://epg.112114.xyz/douyu/9450942
+#EXTINF:-1 ,鬥魚音樂華語點歌台
+http://epg.112114.xyz/douyu/3186217
+#EXTINF:-1 ,鬥魚音樂-韓國女團
+http://epg.112114.xyz/douyu/329667
+#EXTINF:-1 ,鬥魚音樂
+http://epg.112114.xyz/douyu/7537296
+#EXTINF:-1 ,第一音樂頻道(俄)
+http://rtmp.one.by:1300
+#EXTINF:-1 ,探索發現
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+#EXTINF:-1 ,In WILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
